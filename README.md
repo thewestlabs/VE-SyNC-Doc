@@ -15,7 +15,7 @@ If you opted for your own Pico, check manual configuration steps [wiki/Manual-co
 
 ### Data cable
 
-You will need genuine [VE.Direct](https://www.amazon.com/dp/B01F9ESFZS) cable or build your on DIY cables. ([How?](https://github.com/thewestlabs/VE-SyNC-Doc/wiki/DIY-VE.Direct-cable)https://github.com/thewestlabs/VE-SyNC-Doc/wiki/DIY-VE.Direct-cable)
+You can use either genuine [VE.Direct](https://www.amazon.com/dp/B01F9ESFZS) cable or build your on DIY cables. ([How?](https://github.com/thewestlabs/VE-SyNC-Doc/wiki/DIY-VE.Direct-cable))
 
 ### Where to buy
 <a href="https://www.tindie.com/stores/westlabs/?ref=offsite_badges&utm_medium=badges&utm_campaign=badge_medium"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-mediums.png" alt="I sell on Tindie" width="150" height="78"></a>

@@ -17,6 +17,20 @@ If you opted for your own Pico, check manual configuration steps [wiki/Manual-co
 
 You can use either genuine [VE.Direct](https://www.amazon.com/dp/B01F9ESFZS) cable or build your on DIY cables. ([How?](https://github.com/thewestlabs/VE-SyNC-Doc/wiki/DIY-VE.Direct-cable))
 
+### LED color codes
+
+After the initial bootstrap settles in:
+  1. 🟢 Green blinking every 3 seconds - Device is healthy and connected
+  2. 🟡 Yellow blinking every 3 seconds - Device is healthy but not connected to either Rover or WiFi
+  3. ⭕ Red blinking - Temporary error
+  4. 🔴 Red steady - Fatal error occured
+
+### PVOutput/ Home assistant / MQTT
+Enable and configure cloud uploads using the BLE app. More details can be found at [Wiki/BLE App](https://github.com/thewestlabs/VE-SyNC-Doc/wiki/BLE-App).
+
+### Supported devices
+Pretty much any Victron devie with a VE.Direct port except BMV-600.
+
 ### Where to buy
 <a href="https://www.tindie.com/stores/westlabs/?ref=offsite_badges&utm_medium=badges&utm_campaign=badge_medium"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-mediums.png" alt="I sell on Tindie" width="150" height="78"></a>
 

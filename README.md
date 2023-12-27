@@ -7,7 +7,7 @@ VE SyNC is a WiFi adapter designed for Victron Energy¹ brand charge controllers
 **a. Pre-installed Pico W**
   1. All pre-installed Picos come with firmware already baked into it.
   2. Connect the VE SyNC module to your Victron device using VE.Direct cable. Power through USB or 12v/24v dc battery.
-  3. Configure with bluetooth using this webpage -> [VE SyNC App](https://thewestlabs.github.io/VE-SyNC-doc/). Read more about using the app on [Wiki](https://github.com/thewestlabs/VE-SyNC-doc/wiki/BLE-App).
+  3. Configure with bluetooth using this webpage -> [VE SyNC App](https://thewestlabs.github.io/VE-SyNC-Doc/). Read more about using the app on [Wiki](https://github.com/thewestlabs/VE-SyNC-doc/wiki/BLE-App).
 
 **b. Using your own Pico W**
 

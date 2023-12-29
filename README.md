@@ -33,7 +33,7 @@ Pretty much any Victron device with a VE.Direct port except BMV-60X.
 
 ### FAQ
   1. Will my Victron bluetooth continue to work?  
-    Yes, bult-in SmartSolar BLE will continue to work, but BlueSolar BLE module will not because port is occupied.
+    Yes, bult-in SmartSolar BLE will continue to work, but BlueSolar external BLE module will not because port is occupied.
   3. How will the data upload work with Inverters/Shunts?  
     Data will be uploaded to PVOutput only for Charge Controllers, but MQTT/HA discovery and custom logging should work with any VE.Direct devices.
 

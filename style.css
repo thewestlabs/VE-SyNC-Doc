@@ -249,6 +249,15 @@ button.subtle {
   color: red;
 }
 
+.empty {
+  margin: 24px auto 16px;
+  text-align: center;
+}
+
+.empty img {
+  width: 96px;
+}
+
 .hidden {
   display: none;
 }

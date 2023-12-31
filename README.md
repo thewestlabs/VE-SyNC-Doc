@@ -21,7 +21,7 @@ You can use either genuine [VE.Direct](https://www.amazon.com/dp/B01F9ESFZS) cab
 
 After the initial bootstrap settles in:
   1. 🟢 Green blinking every 3 seconds - Device is healthy and connected
-  2. 🟡 Yellow blinking every 3 seconds - Device is healthy but not connected to either Rover or WiFi
+  2. 🟡 Yellow blinking every 3 seconds - Device is healthy but not connected to either Victron or WiFi
   3. ⭕ Red blinking - Temporary error
   4. 🔴 Red steady - Fatal error occured
 

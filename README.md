@@ -25,8 +25,9 @@ After the initial bootstrap settles in:
   3. ⭕ Red blinking - Temporary error
   4. 🔴 Red steady - Fatal error occured
 
-### PVOutput/ Home assistant / MQTT
-Enable and configure cloud uploads using the BLE app. More details can be found at [Wiki/BLE App](https://github.com/thewestlabs/VE-SyNC-Doc/wiki/BLE-App).
+### WiFi Monitoring/ PVOutput/ Home assistant / MQTT
+1. You can either monitor through WiFi (same network only)- Type the IP address shown in the BLE app into your browser tab.
+2. Or configure cloud uploads using the BLE app. More details can be found at [Wiki/BLE App](https://github.com/thewestlabs/VE-SyNC-Doc/wiki/BLE-App).
 
 ### Supported devices
 Pretty much any Victron device with a VE.Direct port except BMV-60X.

@@ -34,11 +34,11 @@ Pretty much any Victron device with a VE.Direct port except BMV-60X.
 
 ### FAQ
   1. Will my Victron bluetooth continue to work?  
-    Yes, bult-in SmartSolar BLE will continue to work. But BlueSolar external BLE module will not work, because port is occupied. (You can try experimenting with a splitter at your own risk).
+    Yes, bult-in SmartSolar BLE will continue to work. But BlueSolar external BLE module will not work, because VE.Direct port is occupied. (You can try experimenting with a splitter at your own risk).
   2. Can I upload Inverter/Shunt data to PVOutput?  
-    Only charge controller data will be uploaded to PVOutput, other devices will be ignored. But MQTT with HA discovery and custom logging should work with any VE.Direct devices.
+    Only charge controller data will be uploaded to PVOutput, other devices will be ignored. But MQTT, HA discovery and custom logging should work with any VE.Direct devices.
   3. Do I need Cerbo GX or Venus OS?  
-    It works independently and connects directly to your WiFi. No need of Cerbo GX or Venus OS.
+    It connects directly to your WiFi. No need of Cerbo GX or Venus OS.
 
 ### Where to buy
 <a href="https://www.tindie.com/stores/westlabs/?ref=offsite_badges&utm_medium=badges&utm_campaign=badge_medium"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-mediums.png" alt="I sell on Tindie" width="150" height="78"></a>

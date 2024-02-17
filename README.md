@@ -1,5 +1,5 @@
 # VE SyNC
-VE SyNC is a WiFi adapter designed for Victron Energy¹ brand charge controllers. Checkout the product [here](https://www.tindie.com/products/33256/). Tested with SmartSolar/BlueSolar series MPPT controllers.
+VE SyNC is a WiFi adapter designed for Victron Energy¹ brand charge controllers. Checkout the product [here](https://www.tindie.com/products/33717/#33717). Tested with SmartSolar/BlueSolar series MPPT controllers.
 
 <img src=https://github.com/thewestlabs/VE-SyNC-Doc/assets/111796612/5269507d-a592-49fd-86de-9a4c09b42a8e width=360px />
 

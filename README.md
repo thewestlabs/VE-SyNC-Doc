@@ -15,7 +15,7 @@ If you opted for your own Pico, check manual configuration steps [wiki/Manual-co
 
 ### Data cable
 
-You can use either genuine [VE.Direct](https://www.amazon.com/dp/B01F9ESFZS) cable (recommended) or build your on DIY cables. ([How?](https://github.com/thewestlabs/VE-SyNC-Doc/wiki/DIY-VE.Direct-cable))
+You can use either genuine [VE.Direct cable](https://www.amazon.com/dp/B01F9ESFZS) (recommended) or build your on DIY cables. ([How?](https://github.com/thewestlabs/VE-SyNC-Doc/wiki/DIY-VE.Direct-cable))
 
 ### LED color codes
 

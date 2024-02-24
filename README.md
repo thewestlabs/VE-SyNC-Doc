@@ -26,7 +26,7 @@ After the initial bootstrap settles in:
   4. 🔴 Red steady - Fatal error occured
 
 ### WiFi Monitoring/ PVOutput/ Home assistant / MQTT
-1. You can either monitor through WiFi (local network only) - Type the IP address shown in the BLE app into your browser tab.
+1. You can either monitor through WiFi (local network only) - Type the IP address shown in the BLE app into your browser tab (like `192.168.0.XX`).
 2. Or configure cloud uploads using the BLE app. More details can be found at [Wiki/BLE App](https://github.com/thewestlabs/VE-SyNC-Doc/wiki/BLE-App).
 
 ### Supported devices
